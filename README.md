@@ -54,6 +54,6 @@ This is my personal portfolio website built to highlight my data analysis skills
 
 ```bash
 git clone https://github.com/sarohaa199/portfolio.git
-cd beautiful-portfolio
+cd portfolio
 npm install
 npm run dev
