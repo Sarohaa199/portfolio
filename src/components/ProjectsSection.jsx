@@ -13,10 +13,20 @@ const projects = [
   },
   {
     id: 2,
+    title: "Vendor Performance Analysis",
+    description:
+      "End-to-end analytics project for evaluating vendor performance in retail. Includes data processing, KPI analysis, and interactive Power BI dashboards to support data-driven vendor management.",
+    image: "/projects/Project2.png",
+    tags: ["Python", "Sqlite3", "Power BI","Data Cleaning", "EDA", "CTE", "Window Functions", "Business Insights"],
+    demoUrl: "https://github.com/Sarohaa199/Vendor-Performance-Analysis",
+    githubUrl: "https://github.com/Sarohaa199/Vendor-Performance-Analysis",
+  },
+  {
+    id: 3,
     title: "MySQL Data Cleaning and Exploratory Data Analysis (EDA)",
     description:
       "End-to-end data cleaning, transformation, and exploratory data analysis on raw sales data using MySQL. Demonstrates real-world data cleaning, advanced SQL querying, and business insights generation.",
-    image: "/projects/Project2.png",
+    image: "/projects/Project3.png",
     tags: ["MySQL", "SQL", "Data Cleaning", "EDA", "CTE", "Window Functions", "Business Insights"],
     demoUrl: "https://github.com/Sarohaa199/MySQL-Projects/tree/main/mysql-data-analysis",
     githubUrl: "https://github.com/Sarohaa199/MySQL-Projects/tree/main/mysql-data-analysis",
